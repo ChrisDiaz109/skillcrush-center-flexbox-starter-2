@@ -1,4 +1,4 @@
-html, body {
+html, body {        /*remember to add html,body in order for em to understand the sizing*/
   height: 100%;
   margin: 0;
   font-size: 16px;
